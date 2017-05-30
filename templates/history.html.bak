@@ -1,0 +1,43 @@
+<div class="bar bar-header bar-positive">
+  <h1 class="title">MENU</h1>
+</div>
+
+<div class="list has-subheader">
+
+  <div class="item item-divider">
+    Cookie
+  </div>
+
+  <a class="item" href="#"><a ui-sref="almond">
+    Almond cookies
+  </a></a>
+
+  <a class="item" href="#">
+    Butter cookies
+  </a>
+
+  <a class="item" href="#">
+    Chocolate chip cookies
+  </a>
+
+</div>
+
+<div class="list has-subheader">
+
+  <div class="item item-divider">
+    Cheese cake
+  </div>
+
+  <a class="item" href="#">
+    Mango cheesecake
+  </a>
+
+  <a class="item" href="#">
+    Strawberry Cheesecake
+  </a>
+
+  <a class="item" href="#">
+    Chocolate cheesecake
+  </a>
+
+</div>
